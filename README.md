@@ -1,16 +1,16 @@
-### Hi there 👋
+### What's up??
 
-<!--
-**LuisBsb/LuisBsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luis Claudio ✌, I'm from Brazil, I've been working with java for over 10 years 🏆 and I'm currently learning quarkus and flutter 🤤.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working as backend java
+- 😎 I’m currently learning quarkus and flutter.
+- 😄 Pronouns: he/him
+- 😜 Fun fact: I love my family and Brazilian barbecue
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/LuisBsb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisBsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBsb&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+![Snake animation](https://github.com/LuisBsb/LuisBsb/blob/output/github-contribution-grid-snake.svg)
